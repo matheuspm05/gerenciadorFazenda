@@ -1,0 +1,17 @@
+# Java
+*.class
+*.log
+
+# Pastas de build
+bin/
+out/
+target/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
